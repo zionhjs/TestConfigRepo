@@ -1,0 +1,9 @@
+my:
+  greeting: Hello World From Config Server
+  list:
+    values: One,Two,Three, Four
+
+db:
+  dbValues: "{connectionString: 'http://xxx', userName:'foo', password:'pass'}"
+  host: 127.0.0.1
+  port: 1600
